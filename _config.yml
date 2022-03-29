@@ -1,0 +1,99 @@
+---
+booktitle: Understanding Social Behavior in Dyadic and Small Group Interactions
+shortname: DYAD
+sections:
+- name: Preface
+  title: Preface
+- name: Accepted Papers
+  title: Accepted Papers
+volume: '173'
+year: '2022'
+start: 2021-10-16
+end: 2021-10-16
+conference_number: '1'
+published: 2022-03-29
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: DYAD-2022
+month: 0
+cycles: false
+bibtex_editor: Palmero, Cristina and Jacques Junior, Julio C. S. and Clap{\'e}s, Albert
+  and Guyon, Isabelle and Tu, Wei-Wei and Moeslund, Thomas B. and Escalera, Sergio
+editor:
+- given: Cristina
+  family: Palmero
+- given: Julio C. S.
+  family: Jacques Junior
+- given: Albert
+  family: Clapés
+- given: Isabelle
+  family: Guyon
+- given: Wei-Wei
+  family: Tu
+- given: Thomas B.
+  family: Moeslund
+- given: Sergio
+  family: Escalera
+title: Proceedings of Machine Learning Research
+description: |
+  Understanding Social Behavior in Dyadic and Small Group Interactions
+    Held in Virtual on 16 October 2021
+
+  Published as Volume 173 by the Proceedings of Machine Learning Research on 29 March 2022.
+
+  Volume Edited by:
+    Cristina Palmero
+    Julio C. S. Jacques Junior
+    Albert Clapés
+    Isabelle Guyon
+    Wei-Wei Tu
+    Thomas B. Moeslund
+    Sergio Escalera
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 16 Oct
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v173"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v173
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v173
+email: ''
+conference:
+  name: Understanding Social Behavior in Dyadic and Small Group Interactions
+  url: https://chalearnlap.cvc.uab.cat/workshop/44
+  location: Virtual
+  dates:
+  - 2021-10-16
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/home/markus/repos/mlresearch/v173/dyad22.bib"
+# Site settings
+# Original source:  /home/markus/repos/mlresearch/v173/dyad22.bib
